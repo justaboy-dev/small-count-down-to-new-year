@@ -21,7 +21,7 @@ body{
 h1{
     font-weight: normal;
     font-size: 60px;
-    margin: -150px 0 140px;
+    margin: 0px 0 70px;
 }
 .countdown{
     display: flex;
@@ -39,6 +39,9 @@ h1{
     font-size: 36px;
     line-height: 1;
     margin: 0 0 5px;
+}
+.midau{
+    margin: 120px 0 40px;
 }
 
 @media(max-width:500px){
